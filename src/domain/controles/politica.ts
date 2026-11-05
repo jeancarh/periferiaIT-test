@@ -1,0 +1,3 @@
+export const TOLERANCIA_COTIZACION = 0.02
+
+export const TOLERANCIA_CUADRE_MONTOS = 1
